@@ -8,12 +8,12 @@ List of standard and browser specific CSS properties.
 2. Browser supported properties from `window.getComputedStyle` / `document.body.style`:
 
  ### Windows
- |                   | XP     | 7      | 8      | 10     | 
- | ----------------- | ------ | ------ | ------ | ------ | 
- | Chrome            | 14-49  | 14-50  | 22-50  | 37-50  | 
- | Firefox           | 6-45   | 6-45   | 39-45  | 32-45  | 
- | Internet Explorer |        | 10-11  | 10-11  | 11     | 
- | Edge              |        |        |        | 13     | 
+ |                   | XP     | 7      | 8      | 10     |
+ | ----------------- | ------ | ------ | ------ | ------ |
+ | Chrome            | 18-49  | 18-50  | 22-50  | 37-50  |
+ | Firefox           | 6-45   | 6-45   | 16-45  | 32-45  |
+ | Internet Explorer |        | 10-11  | 10-11  | 11     |
+ | Edge              |        |        |        | 13     |
 
  ### OSX
  |                   | 10.11  |
