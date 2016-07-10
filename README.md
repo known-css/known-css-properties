@@ -12,7 +12,7 @@ List of standard and browser specific CSS properties.
  | ----------------- | ------ | ------ | ------ | ------ |
  | Chrome            | 18-49  | 18-50  | 22-50  | 37-50  |
  | Firefox           | 6-45   | 6-45   | 16-45  | 32-45  |
- | Internet Explorer |        | 10-11  | 10-11  | 11     |
+ | Internet Explorer |        |  8-11  | 10-11  | 11     |
  | Edge              |        |        |        | 13     |
 
  ### OSX
