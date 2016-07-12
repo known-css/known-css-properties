@@ -23,10 +23,12 @@ List of standard and browser specific CSS properties.
 
  ### Others:
 
- - Safari: 6, 6.2, 7, 8, 9.1
+ - Safari: 6, 6.2, 7, 8, 9, 9.1
  - Mobile Safari: 6, 7, 8, 8.3, 9.0, 9.3
- - Chrome Android: 30, 37 
- - Opera Win XP 12.10, 12.14, 12.15, 12.16 
+ - Chrome Android: 30, 37, 46
+ - Firefox mobile: 47
+ - IE mobile: 11
+ - Opera Win XP: 12.10, 12.14, 12.15, 12.16
 
 ### JavaScript API
 
