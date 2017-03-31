@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && npm publish && git push && git push --tags",
+    "generate": "node scripts/generate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -24,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/betit/known-css-properties/issues"
   },
-  "homepage": "https://github.com/betit/known-css-properties#readme"
+  "homepage": "https://github.com/betit/known-css-properties#readme",
+  "devDependencies": {
+    "lodash.sortby": "^4.7.0",
+    "lodash.uniq": "^4.5.0"
+  }
 }
