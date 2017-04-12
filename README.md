@@ -32,6 +32,7 @@ List of standard and browser specific CSS properties.
  - Opera Win 8: 36-38
  - Opera OSX: 36-40
  - Opera Mobile: 42.7
+ - Samsung internat 4.0
 
 ### JavaScript API
 
