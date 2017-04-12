@@ -6,6 +6,8 @@
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && npm publish && git push && git push --tags",
+    "generate": "node scripts/generate.js",
+    "lint": "eslint index.js scripts/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -24,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/betit/known-css-properties/issues"
   },
-  "homepage": "https://github.com/betit/known-css-properties#readme"
+  "homepage": "https://github.com/betit/known-css-properties#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "globby": "^6.1.0",
+    "lodash.sortby": "^4.7.0",
+    "lodash.uniq": "^4.5.0"
+  }
 }
