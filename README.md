@@ -31,6 +31,7 @@ List of standard and browser specific CSS properties.
  - Opera Win XP: 12.10, 12.14, 12.15, 12.16
  - Opera Win 8: 36-38
  - Opera OSX: 36-40
+ - Opera Mobile: 42.7
 
 ### JavaScript API
 
