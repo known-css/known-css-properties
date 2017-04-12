@@ -317,6 +317,7 @@
     "fill-rule",
     "filter",
     "-webkit-filter",
+    "-ms-filter",
     "flex",
     "-ms-flex-align",
     "-webkit-flex-align",
