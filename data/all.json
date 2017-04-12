@@ -388,6 +388,7 @@
     "-webkit-font-variant-ligatures",
     "font-variant-numeric",
     "font-variant-position",
+    "font-variation-settings",
     "font-weight",
     "footnote-display",
     "footnote-policy",
