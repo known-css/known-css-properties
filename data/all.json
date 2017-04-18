@@ -952,6 +952,8 @@
     "-webkit-transition-timing-function",
     "-webkit-transition",
     "translate",
+    "uc-alt-skin",
+    "uc-skin",
     "unicode-bidi",
     "unicode-range",
     "-webkit-user-drag",
