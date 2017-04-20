@@ -18,7 +18,7 @@ List of standard and browser specific CSS properties.
 ### OSX
 |                   | 10.6  | 10.11  |
 | ----------------- | ----- | ------ |
-| Chrome            | 14-49 | 14-57  |
+| Chrome            | 14-49 | 14-58  |
 | Firefox           | 6-42  | 6-52   |
 
 ### Others:
