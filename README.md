@@ -19,13 +19,13 @@ List of standard and browser specific CSS properties.
 |                   | 10.6  | 10.11  | 10.12  |
 | ----------------- | ----- | ------ | ------ |
 | Chrome            | 14-49 | 14-58  |    59  |
-| Firefox           | 6-42  | 6-52   |    53  |
+| Firefox           | 6-42  | 6-52   | 53-54  |
 
 ### Others:
 
 - Safari: 6, 6.2, 7, 8, 9, 9.1, 10.0
 - Mobile Safari: 6, 7, 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3
-- Chrome Android: 30, 35, 37, 44, 46, 55, 56, 57
+- Chrome Android: 30, 35, 37, 44, 46, 55, 56, 57, 58
 - Firefox mobile: 47, 52
 - IE mobile: 11
 - Opera Win XP: 12.10, 12.14, 12.15, 12.16
