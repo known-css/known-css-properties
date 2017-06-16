@@ -26,7 +26,7 @@ List of standard and browser specific CSS properties.
 - Safari: 6, 6.2, 7, 8, 9, 9.1, 10.0
 - Mobile Safari: 6, 7, 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3
 - Chrome Android: 30, 35, 37, 44, 46, 56, 57, 58
-- Firefox mobile: 47, 52
+- Firefox mobile: 47, 52, 53
 - IE mobile: 11
 - Opera Win XP: 12.10, 12.14, 12.15, 12.16
 - Opera Win 8: 36-38
