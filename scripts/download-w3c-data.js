@@ -5,7 +5,7 @@ const axios = require('axios');
 
 const outputFile = resolve(__dirname, '../source/w3c.json');
 const w3URL = 'https://www.w3.org/Style/CSS/all-properties.en.json';
-const validStatuses = ['CR', 'WD', 'FPWD', 'LC', 'REC'];
+const validStatuses = ['REC', 'CR', 'LC', 'WD', 'FPWD', 'ED'];
 
 const isEntryValid = ({property, status}) =>
     !property.startsWith('--') && validStatuses.includes(status)
