@@ -1,5 +1,7 @@
 # CSS properties
 
+![Downloads per month](https://img.shields.io/npm/dm/known-css-properties.svg)
+
 List of standard and browser specific CSS properties.
 
 ## Source
@@ -36,8 +38,12 @@ List of standard and browser specific CSS properties.
 - Samsung internet: 4.0
 - UC browser: 11.2
 
-### JavaScript API
+## JavaScript API
 
 ```js
 const properties = require('known-css-properties').all;
 ```
+
+## Thanks
+
+We use [SauceLabs](https://saucelabs.com) testing solution for getting most of the data.
