@@ -6,7 +6,7 @@ List of standard and browser specific CSS properties.
 
 ## Source
 
-1. Standard properties (only 'CR', 'WD', 'FPWD', 'LC', 'REC' statuses): http://www.w3.org/Style/CSS/all-properties.en.json 
+1. Standard properties (only 'REC', 'CR', 'LC', 'WD', 'FPWD', 'ED' statuses): http://www.w3.org/Style/CSS/all-properties.en.json
 2. Browser supported properties from `window.getComputedStyle` / `document.body.style`
 
 ### Windows
