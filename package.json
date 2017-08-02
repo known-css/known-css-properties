@@ -1,6 +1,6 @@
 {
   "name": "known-css-properties",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "List of known CSS properties",
   "repository": "betit/known-css-properties",
   "main": "index.js",
