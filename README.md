@@ -1,7 +1,5 @@
 # CSS properties
 
-![Downloads per month](https://img.shields.io/npm/dm/known-css-properties.svg)
-
 List of standard and browser specific CSS properties.
 
 ## Source
