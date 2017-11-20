@@ -1,1 +1,1 @@
-module.exports.all = require('./data/all').properties;
+module.exports.all = require('./data/all.json').properties;
