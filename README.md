@@ -19,7 +19,7 @@ List of standard and browser specific CSS properties.
 |                   | 10.6  | 10.11  | 10.12  |
 | ----------------- | ----- | ------ | ------ |
 | Chrome            | 14-49 | 14-58  | 59-62  |
-| Firefox           | 6-42  | 6-52   | 53-56  |
+| Firefox           | 6-42  | 6-52   | 53-57  |
 
 ### Others:
 
