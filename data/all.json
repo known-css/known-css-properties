@@ -734,6 +734,7 @@
     "pause",
     "pause-after",
     "pause-before",
+    "pen-action",
     "perspective",
     "-moz-perspective",
     "-ms-perspective",
