@@ -921,6 +921,7 @@
     "text-decoration-none",
     "text-decoration-overline",
     "text-decoration-skip",
+    "text-decoration-skip-ink",
     "-webkit-text-decoration-skip",
     "text-decoration-style",
     "-moz-text-decoration-style",
