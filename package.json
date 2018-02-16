@@ -2,7 +2,7 @@
   "name": "known-css-properties",
   "version": "0.6.1",
   "description": "List of known CSS properties",
-  "repository": "betit/known-css-properties",
+  "repository": "known-css/known-css-properties",
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && npm publish && git push && git push --tags",
