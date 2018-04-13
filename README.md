@@ -1,5 +1,5 @@
 # CSS properties
-![logo](https://raw.githubusercontent.com/known-css/known-css-properties/master/logo.png)
+<img src="logo.png" width="200" height="200" alt="logo" />
 
 List of standard and browser specific CSS properties.
 
