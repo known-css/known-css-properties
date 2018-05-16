@@ -1,7 +1,12 @@
-# CSS properties
-<img src="logo.png" width="200" height="200" alt="logo" />
+<p align="center"><img src="logo.png" width="200" height="200" alt="logo" /></p>
+
+# Known CSS properties
 
 List of standard and browser specific CSS properties.
+
+[![License](https://img.shields.io/github/license/known-css/known-css-properties.svg)](https://github.com/known-css/known-css-properties/blob/master/LICENSE)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovateapp.com/)
+[![Npm downloads](https://img.shields.io/npm/dm/known-css-properties.svg)](https://www.npmjs.com/package/known-css-properties)
 
 ## Source
 
