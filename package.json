@@ -30,7 +30,7 @@
   "homepage": "https://github.com/betit/known-css-properties#readme",
   "devDependencies": {
     "axios": "0.16.2",
-    "eslint": "3.19.0",
+    "eslint": "5.5.0",
     "globby": "6.1.0",
     "lodash.sortby": "4.7.0",
     "lodash.uniq": "4.5.0"
