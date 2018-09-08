@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/betit/known-css-properties#readme",
   "devDependencies": {
-    "axios": "0.16.2",
+    "axios": "0.18.0",
     "eslint": "5.5.0",
     "globby": "8.0.1",
     "lodash.sortby": "4.7.0",
