@@ -22,12 +22,28 @@
     "safari",
     "opera"
   ],
-  "author": "Viorel Cojocaru <vio@mavrix.es>",
+  "contributors": [
+    {
+      "name": "Krzysztof Bebenek",
+      "email": "kbebenek@kbebenek.me",
+      "url": "http://kbebenek.me"
+    },
+    {
+      "name": "Viorel Cojocaru",
+      "email": "vio@beanon.com",
+      "url": "http://beanon.com"
+    }
+  ],
+  "author": {
+    "name": "Viorel Cojocaru",
+    "email": "vio@beanon.com",
+    "url": "http://beanon.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/betit/known-css-properties/issues"
+    "url": "https://github.com/known-css/known-css-properties/issues"
   },
-  "homepage": "https://github.com/betit/known-css-properties#readme",
+  "homepage": "https://github.com/known-css/known-css-properties#readme",
   "devDependencies": {
     "axios": "0.18.0",
     "eslint": "5.5.0",
