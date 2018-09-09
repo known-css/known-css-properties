@@ -677,6 +677,7 @@
     "offset-start",
     "opacity",
     "-moz-opacity",
+    "-webkit-opacity",
     "order",
     "-webkit-order",
     "-moz-orient",
