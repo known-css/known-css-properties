@@ -47,6 +47,7 @@
     "-moz-animation-timing-function",
     "-ms-animation-timing-function",
     "-webkit-animation-timing-function",
+    "-webkit-animation-trigger",
     "-webkit-animation",
     "-webkit-app-region",
     "appearance",
