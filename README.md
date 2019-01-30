@@ -24,7 +24,7 @@ List of standard and browser specific CSS properties.
 | Edge | 13 - 18 |
 | Safari | 6, 6.2, 7 - 9, 9.1, 10.0, 11.0, 11.1, 12.0 |
 | Internet Explorer | 8 - 11 |
-| Opera | 12.10, 12.14, 12.15, 12.16, 36 - 40, 45, 56 |
+| Opera | 12.10, 12.14, 12.15, 12.16, 36 - 40, 45, 56, 58 |
 
 ### Mobile
 | Name | Versions |
