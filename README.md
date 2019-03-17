@@ -19,18 +19,18 @@ List of standard and browser specific CSS properties.
 
 | Name | Versions |
 |---|--:|
-| Chrome | 14 - 72 |
+| Chrome | 14 - 73 |
 | Firefox | 6 - 65 |
 | Edge | 13 - 18 |
-| Safari | 6, 6.2, 7 - 9, 9.1, 10.0, 11.0, 11.1, 12.0 |
+| Safari | 6, 6.2, 7 - 9, 9.1, 10.0, 11.0, 11.1, 12.0, 12.1 |
 | Internet Explorer | 8 - 11 |
 | Opera | 12.10, 12.14, 12.15, 12.16, 36 - 40, 45, 56, 58 |
 
 ### Mobile
 | Name | Versions |
 |---|--:|
-| iOS Safari | 6 - 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3, 11.0, 11.2, 11.3, 11.4, 12.0 |
-| Chrome for Android | 30, 35, 37, 44, 46, 51, 55 - 62, 64, 66 - 71 |
+| iOS Safari | 6 - 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3, 11.0, 11.2, 11.3, 11.4, 12.0 , 12.1 |
+| Chrome for Android | 30, 35, 37, 44, 46, 51, 55 - 62, 64, 66 - 71, 73 |
 | Firefox for Android | 47, 52 - 54, 57, 58, 62 - 64 |
 | IE mobile | 11 |
 | Opera Mobile | 42.7, 43, 47.1 |
