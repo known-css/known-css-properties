@@ -29,7 +29,7 @@ List of standard and browser specific CSS properties.
 ### Mobile
 | Name | Versions |
 |---|--:|
-| iOS Safari | 6 - 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3, 11.0, 11.2, 11.3, 11.4, 12.0 |
+| iOS Safari | 6 - 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3, 11.0, 11.2, 11.3, 11.4, 12.0 , 12.1 |
 | Chrome for Android | 30, 35, 37, 44, 46, 51, 55 - 62, 64, 66 - 71, 73 |
 | Firefox for Android | 47, 52 - 54, 57, 58, 62 - 64 |
 | IE mobile | 11 |
