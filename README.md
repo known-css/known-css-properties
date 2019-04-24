@@ -19,7 +19,7 @@ List of standard and browser specific CSS properties.
 
 | Name | Versions |
 |---|--:|
-| Chrome | 14 - 73 |
+| Chrome | 14 - 74 |
 | Firefox | 6 - 66 |
 | Edge | 13 - 18 |
 | Safari | 6, 6.2, 7 - 9, 9.1, 10.0, 11.0, 11.1, 12.0, 12.1 |
