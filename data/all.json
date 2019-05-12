@@ -923,6 +923,8 @@
     "snap-height",
     "solid-color",
     "solid-opacity",
+    "spatial-navigation-action",
+    "spatial-navigation-contain",
     "speak",
     "speak-as",
     "speak-header",

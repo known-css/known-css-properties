@@ -461,6 +461,8 @@
     "shape-inside",
     "shape-margin",
     "shape-outside",
+    "spatial-navigation-action",
+    "spatial-navigation-contain",
     "speak",
     "speak-header",
     "speak-numeral",
