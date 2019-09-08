@@ -553,6 +553,8 @@
     "widows",
     "width",
     "will-change",
+    "word-boundary-detection",
+    "word-boundary-expansion",
     "word-break",
     "word-spacing",
     "word-wrap",
