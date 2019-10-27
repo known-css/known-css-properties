@@ -1140,6 +1140,8 @@
     "will-change",
     "-moz-window-dragging",
     "-moz-window-shadow",
+    "word-boundary-detection",
+    "word-boundary-expansion",
     "word-break",
     "word-spacing",
     "word-wrap",
