@@ -327,6 +327,7 @@
     "-moz-column-rule-width",
     "-webkit-column-rule-width",
     "column-span",
+    "-moz-column-span",
     "-webkit-column-span",
     "column-width",
     "-moz-column-width",
