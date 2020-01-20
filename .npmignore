@@ -1,5 +1,6 @@
+.eslintrc.js
+logo.png
+renovate.json
 scripts
 source
-.eslintrc.js
 yarn.lock
-logo.png
