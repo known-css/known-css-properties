@@ -35,7 +35,7 @@ List of standard and browser specific CSS properties.
 | IE mobile | 11 |
 | Opera Mobile | 42.7, 43, 47.1 |
 | Samsung Internet | 4.0, 6.4, 7.4, 8.2 |
-| UC Browser for Android | 11.2, 12.9 |
+| UC Browser for Android | 11.2, 12.9, 13.1 |
 
 ## JavaScript API
 
