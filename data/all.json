@@ -1073,6 +1073,7 @@
     "uc-skin",
     "unicode-bidi",
     "unicode-range",
+    "user-drag",
     "-webkit-user-drag",
     "-moz-user-focus",
     "-moz-user-input",
