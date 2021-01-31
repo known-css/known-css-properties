@@ -49,7 +49,7 @@
   "devDependencies": {
     "axios": "0.21.1",
     "eslint": "7.18.0",
-    "globby": "11.0.1",
+    "globby": "11.0.2",
     "lodash.sortby": "4.7.0",
     "lodash.uniq": "4.5.0"
   }
