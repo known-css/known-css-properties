@@ -1,5 +1,6 @@
 {
   "properties": [
+    "accent-color",
     "align-content",
     "align-items",
     "align-self",
@@ -134,7 +135,11 @@
     "column-width",
     "columns",
     "contain",
+    "contain-intrinsic-block-size",
+    "contain-intrinsic-height",
+    "contain-intrinsic-inline-size",
     "contain-intrinsic-size",
+    "contain-intrinsic-width",
     "content",
     "content-visibility",
     "continue",
@@ -311,6 +316,7 @@
     "min-block-size",
     "min-height",
     "min-inline-size",
+    "min-intrinsic-sizing",
     "min-width",
     "mix-blend-mode",
     "nav-down",

@@ -1,6 +1,7 @@
 {
   "properties": [
     "accelerator",
+    "accent-color",
     "-wap-accesskey",
     "align-content",
     "-webkit-align-content",
@@ -306,7 +307,11 @@
     "-webkit-composition-fill-color",
     "-webkit-composition-frame-color",
     "contain",
+    "contain-intrinsic-block-size",
+    "contain-intrinsic-height",
+    "contain-intrinsic-inline-size",
     "contain-intrinsic-size",
+    "contain-intrinsic-width",
     "content",
     "content-visibility",
     "-ms-content-zoom-chaining",
@@ -659,6 +664,7 @@
     "min-block-size",
     "min-height",
     "min-inline-size",
+    "min-intrinsic-sizing",
     "-webkit-min-logical-height",
     "-webkit-min-logical-width",
     "min-width",
