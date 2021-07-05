@@ -655,6 +655,7 @@
     "mask-type",
     "-webkit-mask",
     "-webkit-match-nearest-mail-blockquote-color",
+    "math-style",
     "max-block-size",
     "max-height",
     "max-inline-size",
