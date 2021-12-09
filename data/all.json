@@ -922,6 +922,7 @@
     "-webkit-shape-padding",
     "shape-rendering",
     "size",
+    "size-adjust",
     "snap-height",
     "solid-color",
     "solid-opacity",
