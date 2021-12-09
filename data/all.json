@@ -62,6 +62,7 @@
     "-webkit-animation-timing-function",
     "-webkit-animation-trigger",
     "-webkit-animation",
+    "app-region",
     "-webkit-app-region",
     "appearance",
     "-moz-appearance",
