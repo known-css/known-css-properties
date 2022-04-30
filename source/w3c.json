@@ -1,5 +1,6 @@
 {
   "properties": [
+    "-webkit-line-clamp",
     "accent-color",
     "align-content",
     "align-items",
@@ -140,6 +141,9 @@
     "contain-intrinsic-inline-size",
     "contain-intrinsic-size",
     "contain-intrinsic-width",
+    "container",
+    "container-name",
+    "container-type",
     "content",
     "content-visibility",
     "continue",
@@ -325,7 +329,9 @@
     "nav-right",
     "nav-up",
     "object-fit",
+    "object-overflow",
     "object-position",
+    "object-view-box",
     "offset",
     "offset-anchor",
     "offset-distance",
