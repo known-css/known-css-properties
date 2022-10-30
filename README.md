@@ -31,7 +31,7 @@ List of standard and browser specific CSS properties.
 |---|--:|
 | iOS Safari | 6 - 8, 8.3, 9.0, 9.3, 10.0, 10.2, 10.3, 11.0, 11.2, 11.3, 11.4, 12.0 , 12.1, 13.1, 14, 14.1, 15.1, 15.4 |
 | Chrome for Android | 30, 35, 37, 44, 46, 51, 55 - 62, 64, 66 - 76, 78 - 79, 81, 83, 91, 94, 96, 100, 101 |
-| Firefox for Android | 47, 52 - 54, 57, 58, 62 - 64, 66, 68, 81, 85, 91, 99, 101 |
+| Firefox for Android | 47, 52 - 54, 57, 58, 62 - 64, 66, 68, 81, 85, 91, 99, 101, 106 |
 | IE mobile | 11 |
 | Opera Mobile | 42.7, 43, 47.1 |
 | Samsung Internet | 4.0, 6.4, 7.4, 8.2, 9.0, 14.2 |
