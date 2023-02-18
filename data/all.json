@@ -688,6 +688,8 @@
     "mask-type",
     "-webkit-mask",
     "-webkit-match-nearest-mail-blockquote-color",
+    "math-depth",
+    "math-shift",
     "math-style",
     "max-block-size",
     "max-height",
