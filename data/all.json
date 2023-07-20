@@ -62,6 +62,7 @@
     "animation-range",
     "animation-range-end",
     "animation-range-start",
+    "animation-timeline",
     "animation-timing-function",
     "-moz-animation-timing-function",
     "-ms-animation-timing-function",
