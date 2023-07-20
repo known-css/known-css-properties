@@ -1183,6 +1183,7 @@
     "voice-volume",
     "volume",
     "white-space",
+    "white-space-collapse",
     "-webkit-widget-region",
     "widows",
     "width",
