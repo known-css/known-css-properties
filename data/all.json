@@ -428,6 +428,7 @@
     "font-stretch",
     "font-style",
     "font-synthesis",
+    "font-synthesis-position",
     "font-synthesis-small-caps",
     "font-synthesis-style",
     "font-synthesis-weight",
