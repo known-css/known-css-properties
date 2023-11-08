@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/known-css/known-css-properties#readme",
   "devDependencies": {
-    "axios": "0.27.2",
+    "axios": "1.6.1",
     "eslint": "8.51.0",
     "globby": "13.2.2",
     "lodash.sortby": "4.7.0",
