@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && npm publish && git push && git push --tags",
-    "download-w3c-data": "node scripts/download-w3c-data",
+    "download-w3c-data": "node scripts/download-w3c-data.mjs",
     "generate": "node scripts/generate",
     "lint": "eslint index.js scripts/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -47,7 +47,6 @@
   },
   "homepage": "https://github.com/known-css/known-css-properties#readme",
   "devDependencies": {
-    "axios": "0.27.2",
     "eslint": "8.56.0",
     "globby": "13.2.2",
     "lodash.sortby": "4.7.0",
