@@ -1,6 +1,6 @@
 {
   "name": "known-css-properties",
-  "version": "0.31.0",
+  "version": "0.32.0",
   "description": "List of known CSS properties",
   "repository": "known-css/known-css-properties",
   "main": "index.js",
