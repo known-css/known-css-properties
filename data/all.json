@@ -1181,6 +1181,7 @@
     "view-timeline-axis",
     "view-timeline-inset",
     "view-timeline-name",
+    "view-transition-class",
     "view-transition-name",
     "viewport-fill",
     "viewport-fill-opacity",
