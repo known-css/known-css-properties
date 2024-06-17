@@ -1,4 +1,5 @@
 module.exports = {
+    sourceType: 'module',
     extends: 'eslint:recommended',
     env: {
         node: true,

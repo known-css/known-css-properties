@@ -1,0 +1,13 @@
+{
+  "properties": [
+    "-khtml-opacity",
+    "-khtml-box-align",
+    "-khtml-box-direction",
+    "-khtml-box-flex",
+    "-khtml-box-flex-group",
+    "-khtml-box-lines",
+    "-khtml-box-ordinal-group",
+    "-khtml-box-orient",
+    "-khtml-box-pack"
+  ]
+}

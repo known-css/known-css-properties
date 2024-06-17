@@ -1,0 +1,23 @@
+{
+  "properties": [
+    "-apple-line-clamp",
+    "-apple-text-size-adjust",
+    "-khtml-appearance",
+    "-khtml-binding",
+    "-khtml-box-flex-group-transition",
+    "-khtml-dashboard-region",
+    "-khtml-flow-mode",
+    "-khtml-font-size-delta",
+    "-khtml-horizontal-border-spacing",
+    "-khtml-line-clamp",
+    "-khtml-margin-collapse",
+    "-khtml-margin-top-collapse",
+    "-khtml-match-nearest-mail-blockquote-color",
+    "-khtml-rtl-ordering",
+    "-khtml-text-decorations-in-effect",
+    "-khtml-text-size-adjust",
+    "-khtml-vertical-border-spacing",
+    "-konq-flow-mode",
+    "-konq-js-clip"
+  ]
+}
