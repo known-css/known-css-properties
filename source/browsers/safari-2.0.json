@@ -1,0 +1,28 @@
+{
+  "properties": [
+    "-khtml-border-horizontal-spacing",
+    "-khtml-border-vertical-spacing",
+    "-khtml-box-align",
+    "-khtml-box-direction",
+    "-khtml-box-flex",
+    "-khtml-box-flex-group",
+    "-khtml-box-lines",
+    "-khtml-box-ordinal-group",
+    "-khtml-box-orient",
+    "-khtml-box-pack",
+    "-khtml-line-break",
+    "-khtml-margin-bottom-collapse",
+    "-khtml-margin-start",
+    "-khtml-marquee",
+    "-khtml-marquee-direction",
+    "-khtml-marquee-increment",
+    "-khtml-marquee-repetition",
+    "-khtml-marquee-speed",
+    "-khtml-marquee-style",
+    "-khtml-nbsp-mode",
+    "-khtml-padding-start",
+    "-khtml-user-drag",
+    "-khtml-user-modify",
+    "-khtml-user-select"
+  ]
+}
