@@ -573,6 +573,7 @@
     "inline-size",
     "inline-sizing",
     "input-format",
+    "interpolate-size",
     "-wap-input-format",
     "-wap-input-required",
     "input-security",
