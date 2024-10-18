@@ -882,6 +882,7 @@
     "position",
     "position-anchor",
     "position-try",
+    "position-try-fallbacks",
     "position-try-options",
     "position-try-order",
     "position-visibility",
