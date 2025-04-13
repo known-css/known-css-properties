@@ -931,6 +931,7 @@
     "scale",
     "scroll-behavior",
     "-ms-scroll-chaining",
+    "scroll-initial-target",
     "-ms-scroll-limit",
     "-ms-scroll-limit-x-max",
     "-ms-scroll-limit-x-min",
