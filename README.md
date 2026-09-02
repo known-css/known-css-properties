@@ -42,7 +42,3 @@ List of standard and browser specific CSS properties.
 ```js
 const properties = require('known-css-properties').all;
 ```
-
-## Thanks
-
-We use [SauceLabs](https://saucelabs.com) live testing solution for gathering most of the data.
